@@ -1,8 +1,8 @@
 ## Conway's Game of Life – Rules
 
-> Conway's Game of Life is a cellular automaton where each cell lives, dies, or is born based on simple rules involving its 8 neighbors.
+Conway's Game of Life is a cellular automaton where each cell lives, dies, or is born based on simple rules involving its 8 neighbors.
 
-- Three Rules
+Three Rules
 
 1. **Survival**
     - A **live** cell with **2 or 3 live neighbors** stays **alive**.
@@ -14,5 +14,6 @@
 3. **Birth**
     - A **dead** cell with **exactly 3 live neighbors** becomes **alive**.
 
-> These rules are applied to every cell **simultaneously** in each new generation.
+These rules are applied to every cell **simultaneously** in each new generation.
+
 > Simple rules. Complex patterns. Infinite possibilities.
